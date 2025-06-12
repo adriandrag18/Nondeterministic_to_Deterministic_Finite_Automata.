@@ -1,4 +1,4 @@
-# NFA to DFA Converter
+# Nondeterministic Finite Automaton (NFA) to a Deterministic Finite Automaton (DFA) Convertor
 
 This project implements a Python program to convert a Nondeterministic Finite Automaton (NFA) with epsilon transitions to a Deterministic Finite Automaton (DFA) using the subset construction algorithm. The code includes classes for representing NFAs and DFAs, parsing input files, and performing the conversion.
 
